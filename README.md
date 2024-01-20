@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CorsiRiccardo
-- 👀 I’m interested in Game Programming and Sound
-- 🌱 I’m currently learning Unreal Engine/Unity/C++/Python/C#
+- 👀 I’m interested in Game Programming (Tool / Gameplay / AI)
+- 🌱 I’m currently working @StormindGames
 - 📫 How to reach me riccardocorsi.developer@gmail.com
 
 <!---
